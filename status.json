@@ -1,4 +1,4 @@
 {
-  "enabled": true,
+  "min_version": "1.0",
   "message": "Bot running normally."
 }
